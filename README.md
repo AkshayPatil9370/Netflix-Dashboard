@@ -7,7 +7,7 @@ This dashboard provides insights into Netflix’s content library — helping us
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the app]([https://your-streamlit-app-link.streamlit.app](https://netflix-dashboard-byakshaypatil.streamlit.app/))
+👉 [[https://your-streamlit-app-link.streamlit.app](https://netflix-dashboard-byakshaypatil.streamlit.app/]
 
 ---
 
