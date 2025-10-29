@@ -79,14 +79,6 @@ The dashboard uses the **Netflix Titles Dataset**, containing detailed informati
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Netflix Dashboard Preview](images/dashboard_preview.png)
-
-> *(Add a screenshot of your dashboard in the `images/` folder with this name, or update the link above.)*
-
----
-
 ## 👨‍💻 Author
 
 **Akshay Patil**  
