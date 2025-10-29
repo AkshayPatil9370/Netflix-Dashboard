@@ -84,7 +84,7 @@ The dashboard uses the **Netflix Titles Dataset**, containing detailed informati
 **Akshay Patil**  
 🎓 M.Tech in Modelling and Simulation – *Savitribai Phule Pune University*  
 💼 Aspiring Data Scientist | Python & Data Visualization Enthusiast  
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/yourprofile)  
+📫 [Connect on LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshay-patil-667a44283 ))  
 
 ---
 
